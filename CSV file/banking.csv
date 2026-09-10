@@ -1,0 +1,11 @@
+transaction_id,transaction_date,description,transaction_type,amount,balance,payment_mode
+1001,2026-09-01,Salary Credit,Credit,75000,125000,NEFT
+1002,2026-09-02,ATM Withdrawal,Debit,10000,115000,ATM
+1003,2026-09-03,Electricity Bill,Debit,3500,111500,UPI
+1004,2026-09-04,Online Shopping,Debit,4200,107300,CARD
+1005,2026-09-05,Cash Deposit,Credit,20000,127300,CASH
+1006,2026-09-06,Rent Payment,Debit,25000,102300,NEFT
+1007,2026-09-07,Restaurant Payment,Debit,1800,100500,UPI
+1008,2026-09-08,Interest Credit,Credit,1250,101750,BANK
+1009,2026-09-09,Mobile Bill,Debit,999,100751,UPI
+1010,2026-09-10,Transfer from Savings,Credit,15000,115751,IMPS
